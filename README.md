@@ -1,8 +1,8 @@
-Muniz - React - TPL
+最小 react 轮子，系统了解 react 模式，通过构造 meact 实现最小 react
 
 ## 技术
 
-react、react-router、mobx、webpack5、less
+webpack5、Babel、Jsx
 
 ## 项目构建:
 
